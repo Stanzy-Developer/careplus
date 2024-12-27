@@ -75,8 +75,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/suzellealexia/caraplus.git
-cd caraplus
+git clone https://github.com/Stanzy-Developer/careplus.git
+cd careplus
 ```
 
 **Installation**
